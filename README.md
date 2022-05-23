@@ -1,2 +1,2 @@
-# rust_ray_tracing
+# Rust Ray Tracing
 Attempt at ray tracing in Rust
